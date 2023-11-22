@@ -1,4 +1,3 @@
 延边卫视,http://live.ybtvyun.com/video/s10006-70c22a79d0b4/index.m3u8
-延边-1,http://live.ybtvyun.com/video/s10006-70c22a79d0b4/index.m3u8
-延边-2,http://live.ybtvyun.com/video/s10006-6a5d1439480d/index.m3u8
-test1,http://192.168.1.143:2869/upnp/eventing/trbfjtefwk
+延边-1,http://live.ybtvyun.com/video/s10006-6a5d1439480d/index.m3u8
+延边-2,http://live.ybtvyun.com/video/s10006-b2a0645a8070/index.m3u8
